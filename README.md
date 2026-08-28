@@ -8,9 +8,7 @@
 
 <p align="left">Hi, I'm Alexander Thoms a computer programming analyst student and networking technician graduate in North Bay Ontario with a strong interest in backend development, networking, and more.</p>
 
-###
 
-<h2 align="left">I code with</h2>
 
 ###
 
