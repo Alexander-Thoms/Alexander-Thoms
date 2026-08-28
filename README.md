@@ -32,11 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alexander-Thoms/Alexander-Thoms/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
 
 ###
 
