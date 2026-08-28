@@ -1,0 +1,16 @@
+{
+  "name": "personal-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A personal page with a click-to-enter gate and background music, built with Next.js.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
